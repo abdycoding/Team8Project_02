@@ -36,7 +36,6 @@ public class TC07 extends BaseDriver {
             WebElement vote=driver.findElement(By.xpath("//*[@class='button-2 vote-poll-button']"));
             vote.click();
             MyFunc.Bekle(2);
-
             BekleKapat();
         }
 
