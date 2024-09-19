@@ -90,11 +90,11 @@ public class TC06 extends BaseDriver{
         MyFunc.Bekle(2);
 
         WebElement address1 = driver.findElement(By.id("BillingNewAddress_Address1"));
-        address1.sendKeys("Av. de Concha Espina, 1, ChamartÃ­n, 28036 Madrid");
+        address1.sendKeys("Av. de Concha Espina, 1, ChamartÃƒÂ­n, 28036 Madrid");
         MyFunc.Bekle(2);
 
         WebElement address2 = driver.findElement(By.id("BillingNewAddress_Address2"));
-        address2.sendKeys("Sir Matt Busby Way, Old Trafford, Stretford, Manchester M16 0RA, BirleÅŸik KrallÄ±k");
+        address2.sendKeys("Sir Matt Busby Way, Old Trafford, Stretford, Manchester M16 0RA, BirleÃ…Å¸ik KrallÃ„Â±k");
         MyFunc.Bekle(2);
 
         WebElement zip = driver.findElement(By.id("BillingNewAddress_ZipPostalCode"));
@@ -126,7 +126,7 @@ public class TC06 extends BaseDriver{
         credit.click();
         MyFunc.Bekle(2);
 
-        
+
         WebElement cont2 = driver.findElement(By.xpath("//*[@id='payment-method-buttons-container']/input"));
         cont2.click();
         MyFunc.Bekle(2);
@@ -179,3 +179,5 @@ public class TC06 extends BaseDriver{
     }
 }
 
+
+}
