@@ -170,14 +170,7 @@ public class TC06 extends BaseDriver{
         Assert.assertTrue(finalCheck.getText().equals("Your order has been successfully processed!"));
 
 
-
-
-
-
-
+        BekleKapat();
 
     }
-}
-
-
 }
