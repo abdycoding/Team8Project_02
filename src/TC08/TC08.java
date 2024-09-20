@@ -1,6 +1,7 @@
 package TC08;
 
 import Utility.BaseDriver;
+import Utility.MyFunc;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -23,6 +24,7 @@ public class TC08 extends BaseDriver {
 
         WebElement addtocard = driver.findElement(By.xpath("//*[@value='Add to cart']"));
         addtocard.click();
+        MyFunc.Bekle(2);
 
         WebElement shoppingcart = driver.findElement(By.xpath("//*[@class='ico-cart']//*[@class='cart-label']"));
         shoppingcart.click();
