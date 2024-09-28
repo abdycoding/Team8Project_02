@@ -122,11 +122,11 @@ Below are the user stories from **DemoWebShop** and their corresponding acceptan
 ## Technologies and Tools Used:
 The basic technologies and tools to be used in this project include:
 
-Java - Programming language
-Selenium - Web browser automation
-Apache POI - Library for reading and writing Excel files
-Git & GitHub - Version control Systems
-JIRA & Zephyr-Squad - Test management Tools
+- Java - Programming language
+- Selenium - Web browser automation
+- Apache POI - Library for reading and writing Excel files
+- Git & GitHub - Version control Systems
+- JIRA & Zephyr-Squad - Test management Tools
  
 
 ## Contributors
