@@ -131,12 +131,12 @@ JIRA & Zephyr-Squad - Test management Tools
 
 ## Contributors
 
-- [Abylmyrat](https://github.com/your-username) - Project Team Lead & QA Automation Engineer
-- [Furkan Akalin](https://github.com/contributor2-username) - QA Automation Engineer
-- [Yasemin Yıldırır](https://github.com/contributor3-username) - QA Automation Engineer
-- [Gulmeiram Kongurbayeva](https://github.com/contributor3-username) - QA Automation Engineer
-- [Yeldar Zulyarov](https://github.com/contributor3-username) - QA Automation Engineer
-- [Burak Bilgiç](https://github.com/contributor3-username) - QA Automation Engineer
-- [Mahir Özçelik](https://github.com/contributor3-username) - QA Automation Engineer
+- [Abylmyrat](https://github.com/abdycoding) - Project Team Lead & QA Automation Engineer
+- [Furkan Akalin](https://github.com/furkanakalin) - QA Automation Engineer
+- [Yasemin Yıldırır](https://github.com/yaseyldrr) - QA Automation Engineer
+- [Gulmeiram Kongurbayeva](https://github.com/Gul8) - QA Automation Engineer
+- [Yeldar Zulyarov](https://github.com/Yeldar123) - QA Automation Engineer
+- [Burak Bilgiç](https://github.com/lurall) - QA Automation Engineer
+- [Mahir Özçelik](https://github.com/Mahir-Ozcelik) - QA Automation Engineer
 
 
